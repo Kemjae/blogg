@@ -1,6 +1,6 @@
-🚀 My Responsive Website
+🚀 My Responsive  Blog Website
 
-This is a modern, responsive website built using HTML, CSS, and the Bootstrap framework. It is designed to be fully mobile-friendly, clean, and scalable for future improvements.
+This is a modern, responsive website built using HTML, CSS,. It is designed to be fully mobile-friendly, clean, and scalable for future improvements.
 
 ---
 
